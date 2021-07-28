@@ -2,8 +2,4 @@
 
 .gradle
 .idea
-/.gradle/
-/build/
-/out/
-/out/production/classes/
-/out/test/classes/
+application-oauth.properties
