@@ -1,0 +1,10 @@
+org/book/spring/untitled/domain/posts/PostsRepositoryTest.java
+ org.book.spring.untitled.domain.posts.PostsRepositoryTest
+org/book/spring/untitled/web/IndexControllerTest.java
+ org.book.spring.untitled.web.IndexControllerTest
+org/book/spring/untitled/web/dto/HelloResponseDtoTest.java
+ org.book.spring.untitled.web.dto.HelloResponseDtoTest
+org/book/spring/untitled/web/PostApiControllerTest.java
+ org.book.spring.untitled.web.PostApiControllerTest
+org/book/spring/untitled/web/HelloControllerTest.java
+ org.book.spring.untitled.web.HelloControllerTest
